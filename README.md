@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Sankar... and I'm a frontend developer , from Kerala , India.</h4>
+<h4 align="left">Hi 👋! My name is Sankar... and I'm a frontend developer from Kerala , India.</h4>
 
 ###
 
